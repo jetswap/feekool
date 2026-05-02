@@ -1,5 +1,5 @@
 ---
-slug: 
+slug: privet-mir
 title: Это наш форум
 description: Привет, мир!
 order: 0
