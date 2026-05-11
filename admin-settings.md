@@ -1,7 +1,7 @@
 ---
 maintenanceMode: false
 allowSignups: true
-adminNotice: Добро пожаловать — Семён Фричайзинг
+adminNotice: «Быть собой» — Семён Фричайзинг
 showDaysSinceFirstPost: false
 ---
 
